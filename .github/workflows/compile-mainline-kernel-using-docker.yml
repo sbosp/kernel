@@ -86,6 +86,7 @@ on:
         default: "-ophub"
         type: choice
         options:
+          - -sbosp
           - -ophub
           - -happy-new-year
           - -dragon-boat-festival
